@@ -1,0 +1,14 @@
+ /**** Estrutura / Layout
+ */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-imagem: url('../img/fundo.png');
+}
+
+.conteudo{
+
+    background-size: cover;
+    border-bottom: 1px solid black;
+    position: fixed;
+}
